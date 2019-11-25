@@ -1,0 +1,4 @@
+\\internal.hereford.ac.uk\student\2019 enrolment\mja9652\My Documents\Computer science\CoachProject\CoachProject\obj\Debug\netcoreapp2.0\CoachProject.csprojAssemblyReference.cache
+\\internal.hereford.ac.uk\student\2019 enrolment\mja9652\My Documents\Computer science\CoachProject\CoachProject\obj\Debug\netcoreapp2.0\CoachProject.csproj.CoreCompileInputs.cache
+\\internal.hereford.ac.uk\student\2019 enrolment\mja9652\My Documents\Computer science\CoachProject\CoachProject\obj\Debug\netcoreapp2.0\CoachProject.AssemblyInfoInputs.cache
+\\internal.hereford.ac.uk\student\2019 enrolment\mja9652\My Documents\Computer science\CoachProject\CoachProject\obj\Debug\netcoreapp2.0\CoachProject.AssemblyInfo.cs

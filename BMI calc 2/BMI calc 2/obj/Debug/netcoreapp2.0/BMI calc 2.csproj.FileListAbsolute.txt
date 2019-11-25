@@ -1,0 +1,11 @@
+\\internal.hereford.ac.uk\student\2019 enrolment\mja9652\my documents\Computer science\BMI calc 2\BMI calc 2\obj\Debug\netcoreapp2.0\BMI calc 2.csprojAssemblyReference.cache
+\\internal.hereford.ac.uk\student\2019 enrolment\mja9652\my documents\Computer science\BMI calc 2\BMI calc 2\obj\Debug\netcoreapp2.0\BMI calc 2.csproj.CoreCompileInputs.cache
+\\internal.hereford.ac.uk\student\2019 enrolment\mja9652\my documents\Computer science\BMI calc 2\BMI calc 2\obj\Debug\netcoreapp2.0\BMI calc 2.AssemblyInfoInputs.cache
+\\internal.hereford.ac.uk\student\2019 enrolment\mja9652\my documents\Computer science\BMI calc 2\BMI calc 2\obj\Debug\netcoreapp2.0\BMI calc 2.AssemblyInfo.cs
+\\internal.hereford.ac.uk\student\2019 enrolment\mja9652\my documents\Computer science\BMI calc 2\BMI calc 2\bin\Debug\netcoreapp2.0\BMI calc 2.deps.json
+\\internal.hereford.ac.uk\student\2019 enrolment\mja9652\my documents\Computer science\BMI calc 2\BMI calc 2\bin\Debug\netcoreapp2.0\BMI calc 2.runtimeconfig.json
+\\internal.hereford.ac.uk\student\2019 enrolment\mja9652\my documents\Computer science\BMI calc 2\BMI calc 2\bin\Debug\netcoreapp2.0\BMI calc 2.runtimeconfig.dev.json
+\\internal.hereford.ac.uk\student\2019 enrolment\mja9652\my documents\Computer science\BMI calc 2\BMI calc 2\bin\Debug\netcoreapp2.0\BMI calc 2.dll
+\\internal.hereford.ac.uk\student\2019 enrolment\mja9652\my documents\Computer science\BMI calc 2\BMI calc 2\bin\Debug\netcoreapp2.0\BMI calc 2.pdb
+\\internal.hereford.ac.uk\student\2019 enrolment\mja9652\my documents\Computer science\BMI calc 2\BMI calc 2\obj\Debug\netcoreapp2.0\BMI calc 2.dll
+\\internal.hereford.ac.uk\student\2019 enrolment\mja9652\my documents\Computer science\BMI calc 2\BMI calc 2\obj\Debug\netcoreapp2.0\BMI calc 2.pdb
