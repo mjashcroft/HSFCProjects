@@ -1,0 +1,31 @@
+'''
+        INP
+        STA numOne
+        INP
+        STA numTwo
+        LDA numOne
+        ADD numTwo
+        STA numThree
+        OUT
+        HLT
+numOne  DAT
+numTwo  DAT
+numThree DAT
+'''
+
+INP
+STA numOne
+
+INP
+STA numTwo
+
+INP
+STA numThree
+
+LDA numThree
+LDA numTwo
+LDA numOne
+
+OUT NumThree
+OUT NumTwo
+OUT NumOne
